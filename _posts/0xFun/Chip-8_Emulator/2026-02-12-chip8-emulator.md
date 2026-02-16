@@ -1,7 +1,7 @@
 ---
 title: "0xFun CTF: CHIP-8 Emulator Backdoor"
 date: 2026-02-12 12:00:00 +0200
-tags: [reverse, pwn, writeup]
+tags: [reverse, pwn]
 categories: [0xFun, chip8Emulator]
 ---
 
